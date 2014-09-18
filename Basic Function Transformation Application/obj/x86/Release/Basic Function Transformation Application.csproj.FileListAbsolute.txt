@@ -1,0 +1,8 @@
+C:\Users\Owner\documents\visual studio 2010\Projects\Basic Function Transformation Application\Basic Function Transformation Application\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Owner\documents\visual studio 2010\Projects\Basic Function Transformation Application\Basic Function Transformation Application\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Owner\documents\visual studio 2010\Projects\Basic Function Transformation Application\Basic Function Transformation Application\obj\x86\Release\Basic Function Transformation Application.csproj.GenerateResource.Cache
+C:\Users\Owner\documents\visual studio 2010\Projects\Basic Function Transformation Application\Basic Function Transformation Application\bin\Release\Basic Function Transformation Application.exe
+C:\Users\Owner\documents\visual studio 2010\Projects\Basic Function Transformation Application\Basic Function Transformation Application\bin\Release\Basic Function Transformation Application.pdb
+C:\Users\Owner\documents\visual studio 2010\Projects\Basic Function Transformation Application\Basic Function Transformation Application\obj\x86\Release\Basic Function Transformation Application.exe
+C:\Users\Owner\documents\visual studio 2010\Projects\Basic Function Transformation Application\Basic Function Transformation Application\obj\x86\Release\Basic Function Transformation Application.pdb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\Basic Function Transformation Application\Basic Function Transformation Application\obj\x86\Release\Basic Function Transformation Application.csprojResolveAssemblyReference.cache
